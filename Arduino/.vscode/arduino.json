@@ -1,0 +1,5 @@
+{
+    "port": "/dev/cu.usbmodemFD121",
+    "board": "arduino:avr:uno",
+    "sketch": "doorOpener/doorOpener.ino"
+}
